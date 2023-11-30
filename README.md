@@ -1,7 +1,7 @@
 # *neighbooo*
 > *who am I?*
 
-I am mainly a Node.js dev, and do some security research on the side.
+I am mainly a Node.js dev, and do some security research on the side. Now focusing on variety.
 #
 > *things I've done.*
 
